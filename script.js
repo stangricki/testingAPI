@@ -3,8 +3,7 @@ var SpeechGrammarList = SpeechGrammarList || webkitSpeechGrammarList;
 var SpeechRecognitionEvent = SpeechRecognitionEvent || webkitSpeechRecognitionEvent;
 
 var phrases = [
-  'Filip',
-  'Filipek',
+  'test',
 ]
 
 var phrasePara = document.querySelector('.phrase');
